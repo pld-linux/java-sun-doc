@@ -5,6 +5,7 @@ Version:	1.4.2
 Release:	1
 License:	non-distributable (see license.html and http://java.sun.com/docs/redist.html)
 Group:		Documentation
+# download through forms from http://java.sun.com/j2se/1.4.2/download.html
 Source0:	j2sdk-1_4_2-doc.zip
 # NoSource0-md5: 84ef1c44ddbb2baf9f7db7efec70ccdf
 URL:		http://java.sun.com/linux/
