@@ -7,7 +7,7 @@ License:	non-distributable (see license.html and http://java.sun.com/docs/redist
 Group:		Documentation
 # download through forms from http://java.sun.com/j2se/1.5.0/download.jsp
 Source0:	jdk-1_5_0-doc.zip
-# NoSource0-md5: 8474862d96672c01cb06d2c69c852df8
+# NoSource0-md5: c7393821092bb4e14ad6c8e0149ddb46
 URL:		http://java.sun.com/linux/
 NoSource:	0
 BuildRequires:	unzip
