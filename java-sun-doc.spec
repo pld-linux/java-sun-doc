@@ -1,13 +1,13 @@
 Summary:	Java(TM) 2 SDK documentation
 Summary(pl):	Dokumentacja do Java(TM) 2 SDK
 Name:		java-sun-doc
-Version:	1.4.2
+Version:	1.5
 Release:	1
 License:	non-distributable (see license.html and http://java.sun.com/docs/redist.html)
 Group:		Documentation
-# download through forms from http://java.sun.com/j2se/1.4.2/download.html
-Source0:	j2sdk-1_4_2-doc.zip
-# NoSource0-md5: 84ef1c44ddbb2baf9f7db7efec70ccdf
+# download through forms from http://java.sun.com/j2se/1.5.0/download.jsp
+Source0:	jdk-1_5_0-doc.zip
+# NoSource0-md5: 8474862d96672c01cb06d2c69c852df8
 URL:		http://java.sun.com/linux/
 NoSource:	0
 BuildRequires:	unzip
