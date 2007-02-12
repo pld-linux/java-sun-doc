@@ -1,5 +1,5 @@
 Summary:	Java(TM) 2 SDK documentation
-Summary(pl):	Dokumentacja do Java(TM) 2 SDK
+Summary(pl.UTF-8):   Dokumentacja do Java(TM) 2 SDK
 Name:		java-sun-doc
 Version:	1.5
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Java(TM) 2 SDK documentation for language, API, tools, demos etc.
 
-%description -l pl
-Dokumentacja do Java(TM) 2 SDK - do jêzyka, API, narzêdzi, programów
+%description -l pl.UTF-8
+Dokumentacja do Java(TM) 2 SDK - do jÄ™zyka, API, narzÄ™dzi, programÃ³w
 demonstracyjnych i innych.
 
 %prep
